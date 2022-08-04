@@ -1,0 +1,38 @@
+- name: Nguyen Cong Luong, Ph.D
+  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Luong.jpg
+  email: luong.nguyencong@phenikaa-uni.edu.vn
+  job: Researcher, Group Leader
+  achievements: 
+    - Master at HUST
+    - Ph.D at Paris 13
+    - Research Associate at NTU
+    - Google Scholar
+
+- name: Mai Xuan Trang, Ph.D
+  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Trang.jpg
+  email: trang.maixuan@phenikaa-uni.edu.vn
+  job: Researcher
+  achievements: 
+    - Master at KMITL
+    - Ph.D at Kyoto University
+    - Postdoc at Kyoto University
+    - Google Scholar
+
+- name: Luong Van Thien, Ph.D
+  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Thien.jpg
+  email: thien.luongvan@phenikaa-uni.edu.vn
+  job: Researcher
+  achievements: 
+    - B.E at HUST
+    - Ph.D at Queen’s Belfast University, UK
+    - Postdoc at University of Southampton, UK
+    - Google Scholar
+
+- name: Nguyen Thi Thanh Van, M.Sc
+  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Van.jpg
+  email: van.nguyenthithanh@phenikaa-uni.edu.vn
+  job: Research Assistant
+  achievements: 
+    - B.E at HaUI
+    - M.Sc at MTA
+

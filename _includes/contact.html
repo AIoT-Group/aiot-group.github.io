@@ -1,0 +1,78 @@
+<section class="hero is-fullheight has-text-centered" id="contact">
+    <div class="hero-body">
+        <div class="container">
+            <p>Địa chỉ: {{site.address}}</p> <br>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.8013404796848!2d105.74533901443476!3d20.96049159548235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134532aa0a1f3c1%3A0x47d24c7f2c99a768!2zS2h1IEdp4bqjbmcgxJHGsOG7nW5n!5e0!3m2!1svi!2s!4v1658764731432!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            {% unless site.facebook_username == %}
+            <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
+            </a>
+            {% endunless %}
+            {% unless site.email == %}
+            <a id="contact-button" href="mailto:{{site.email}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fas fa-envelope"></i>Send me an Email
+            </a>
+            {% endunless %}
+            {% unless site.twitter_username == %}
+            <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-twitter"></i>Tweet me on Twitter
+            </a>
+            {% endunless %}
+            <hr>
+            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                You Can find me here
+            </h3>
+            <div class="column is-full is-size-3">
+                {% unless site.facebook_username == %}
+                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                {% endunless %}
+                {% unless site.twitter_username == %}
+                <a href="http://www.twitter.com/{{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
+                {% endunless %}
+                {% unless site.instagram_username ==  %}
+                <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
+                {% endunless %}
+                {% unless site.linkedin_username ==  %}
+                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
+                {% endunless %}
+                {% unless site.github_username ==  %}
+                <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
+                {% endunless %}
+                {% unless site.youtube_channel_id ==  %}
+                <a href="http://www.youtube.com/c/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><i class="fab fa-youtube"></i></a>
+                {% endunless %}
+                {% unless site.reddit_username ==  %}
+                <a href="http://www.reddit.com/u/{{site.reddit_username}}" target="_blank" class="has-text-black"><i class="fab fa-reddit"></i></a>
+                {% endunless %}
+                {% unless site.behance_username ==  %}
+                <a href="http://www.behance.com/{{site.behance_username}}" target="_blank" class="has-text-black"><i class="fab fa-behance"></i></a>
+                {% endunless %}
+                {% unless site.dribbble_username ==  %}
+                <a href="http://www.dribbble.com/{{site.dribbble_username}}" target="_blank" class="has-text-black"><i class="fab fa-dribbble"></i></a>
+                {% endunless %}
+                {% unless site.spotify_username ==  %}
+                <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
+                {% endunless %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    function myMap() {
+    var mapOptions = {
+        center: new google.maps.LatLng(51.5, -0.12),
+        zoom: 10,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+    }
+    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+    }
+</script>
+    
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>

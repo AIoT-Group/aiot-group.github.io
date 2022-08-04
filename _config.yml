@@ -1,0 +1,98 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: 'https://pail.phenikaa-uni.edu.vn/'
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: ""
+
+# Title of the Site
+title: Phenikaa AI Lab
+# Description of the Site
+description: Blog about Artificial Intelligence by PAIL
+# URL of Image of the Site
+site-image: /WhatATheme/assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://media.discordapp.net/attachments/999608294794600508/1001354534481834014/unknown.png?width=893&height=616
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: trang.maixuan@phenikaa-uni.edu.vn
+facebook_username: pail.lab
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  Huyne459
+youtube_channel_id: PhenikaaUniversity
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
+address: "Yen nghia, Ha Dong"
+
+# Google Analytics
+google-analytics: UA-163806439-1
+
+# Disqus
+disqus-shortname: thedevslot
+
+# Name of the Author
+author-name: AIoT
+# URL for the Image of the Author
+author-image: https://scontent.fhan19-1.fna.fbcdn.net/v/t1.15752-9/292714853_1938639683192584_6662020547836813844_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=HjpEIucuLOcAX-8wMbt&tn=CBgCmg6DpGWz-opu&_nc_ht=scontent.fhan19-1.fna&oh=03_AVKQ88zgclOL5OeXftUgL3LepQfKKJjo_KZe8Gf9xACgow&oe=6305AA86
+# 60 Words About the Author
+author-about: Tại đây sẽ viết 1 số thông tin ngắn giới thiệu về AOiT lab
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/thedevslot
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

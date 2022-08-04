@@ -1,0 +1,48 @@
+I"H<p>Khi đọc báo tôi thường hay phải chạy lại các thí nghiệm (code) của các bài báo đó. Code cung cấp bởi các tác giả thường cũ và không được cập nhật. Tác giả thông thường cũng không viết chi tiết hoặc có rất it thông tin về môi trường họ chạy code. Việc tìm kiếm và cài đặt được các thư viện cho đúng để chạy được code thực sự là một ác mộng. Đặc biệt là khi chạy các mô hình học sâu trên NVIDIA GPU, việc cài đặt đúng phiên bản CUDA, đúng CUDA driver và đúng phiên bản các frameworks (Pytorch, Tensorflow, …) là công việc tốn rất nhiều thời gian. Chưa kể đến việc cài đặt lại trên môi trường máy chủ lại có thể gây ảnh hưởng đến người khác.</p>
+
+<p>Tôi ghi chú ra đây phương pháp sử dụng Docker và NVIDIA NGC để chạy các docker images phù hợp với yêu cầu của mình cho từng dự án.</p>
+
+<p>Các bước tôi thường thực hiện để sử dụng Docker vàn NVIDIA NGC như sau:</p>
+
+<h3 id="bước-1-cài-đặt-docker-và-nvidia-container-toolkit">Bước 1: Cài đặt Docker và nvidia-container-toolkit</h3>
+
+<p>Trên Ubuntu terminal chạy lệnh sau đây để cài đặt Docker và nvidia-container-toolkit:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; sudo apt-get install -y docker.io nvidia-container-toolkit</code></p>
+
+<p>Sau khi cài đặt xong bạn có thể kiểm tra docker có chạy đúng hay không bằng cách chạy lệnh:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; sudo systemctl status docker</code></p>
+
+<p>Nếu docker đang chạy lỗi, hoặc không active bạn có thể restart lại docker như sau:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; sudo systemctl daemon-reload</code>
+<code class="language-plaintext highlighter-rouge">&gt; sudo systemctl restart docker</code></p>
+
+<h3 id="bước-2-lấy-container-từ-nvidia-ngc-về">Bước 2: Lấy container từ NVIDIA NGC về</h3>
+
+<p>NVIDIA NGC là một private docker registry, bạn muốn tải container từ NGC về trước hết cần tạo tài khoản trên NGC và login vào tài khoản với ‘<code class="language-plaintext highlighter-rouge">docker login</code>’ như hướng dẫn sau: <a href="https://docs.nvidia.com/dgx/ngc-registry-for-dgx-user-guide/index.html">NGC User Guide</a>.</p>
+
+<p>Sau khi đăng ký tài khoản, và đăng nhập bạn có thể vào <a href="https://ngc.nvidia.com/catalog">NGC Catalog</a> để tìm hiểu và lựa chọn container phu hợp với yêu cầu của mình.</p>
+
+<p>Sau khi chon được container phù hợp, bạn chạy lệnh sau đây để tải container về:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; sudo docker pull nvcr.io/nvidia/pytorch:21.08-py3</code></p>
+
+<p>Lệnh này sẽ tải về docker một container đã được cài đặt sẵn các thư viện, framework, drivers cần thiết. Ví dụ thông tin môi trường của container trong lệnh trên bạn có thể tìm thấy ở đây: <a href="https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_21-08.html#rel_21-08">Pytorch Release 21.08</a></p>
+
+<h3 id="bước-3-chạy-docker-với-interactive-mode">Bước 3: Chạy docker với interactive mode</h3>
+
+<p>Sau khi tải container về rồi, bạn có thể khởi tạo một “interactive session” để chạy và làm việc với container như sau:</p>
+
+<p><code class="language-plaintext highlighter-rouge">sudo docker run --gpus all -it --rm -v `pwd`/codes:/codes/ nvcr.io/nvidia/pytorch:21.08-py3</code></p>
+
+<p>Lệnh này sẽ khởi chạy container và gắn thư mục <code class="language-plaintext highlighter-rouge">codes</code> ở thư mục hiện tại trên máy của bạn với thư mục <code class="language-plaintext highlighter-rouge">/codes</code> trên container. (dữ liệu được chia sẽ giữa máy chủ và container).</p>
+
+<p>Chi tiết hơn về các cờ khi chạy lệnh này bạn có thể xem chi tiết hơn trên: <a href="https://ngc.nvidia.com/catalog/containers/nvidia:pytorch">NGC Container</a></p>
+
+<h3 id="thats-it-enjoy-running-you-code-on-the-container">That’s it: Enjoy running you code on the container</h3>
+
+<p>Bạn đã thành công tải và chạy một GPU docker container từ NVIDA NGC. Việc dùng docker này giup bạn giảm nhiều thời gian trong việc tìm kiếm và cài đặt các thư viện, framworks để chạy code.</p>
+
+:ET

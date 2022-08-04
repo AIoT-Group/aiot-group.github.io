@@ -1,0 +1,41 @@
+<section class="hero is-fullheight has-text-centered has-background-white-ter" id="about">
+    <div class="hero-body">
+        <div class="container">
+            <div class="columns">
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                    <figure class="image">
+                        <img class="is-rounded" src="{{site.author-image}}" alt="{{site.author-name}}">
+                    </figure>
+                </div>
+                <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                    <!--- <p>{{site.author-about}}</p> -->
+                    <!--- <p>
+                        We are a research group at the <a href="https://cs.phenikaa-uni.edu.vn/">Faculty of Computer Science, Phenikaa University</a>. Our aim is to explore applications of AI in different domains. Our research topics including:
+                        </p>
+                        
+                        <p>
+                            <li>Applications of AI in communications and networking</li> 
+                            <li>Applications of AI in Smart Cities </li>
+                            <li>Applications of AI in Art</li>
+                            <li>Applications of AI in medical and agricultural imaging</li>
+                            <li>Applications of AI in new material discovering</li>
+                        </p>
+                        <p>
+                        For more information about our work see <a href="https://pail.phenikaa-uni.edu.vn/research/">Research</a>.
+                    </p> -->
+                    <br>
+                    <section class="hero is-fullheight" id="blog">
+                        
+                        <div id="results-container"></div>
+                        <!--Blog Cards Section-->
+                        {% for award in site.data.awards %}
+                            {% include award-card.html %}
+                        {% endfor %}
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>

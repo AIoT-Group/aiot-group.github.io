@@ -1,0 +1,42 @@
+- name: Application of AI in communication and networking
+  image: https://pail.phenikaa-uni.edu.vn/images/researchpic/aai_networking.jpg
+  link:
+  description: Short description about the research theme.
+  members: Nguyen Cong Luong, Luong Van Thien, Nguyen Thi Thanh Van
+
+- name: Applications of AI in Smart Cities
+  link:
+  image: https://pail.phenikaa-uni.edu.vn/images/researchpic/smart_cities.jpg
+  description: We study AI-inspired solutions for intelligent transportation systems, which cover vehicle detection, smart traffic light, smart parking, and incident detection.
+  members: Luong Van Thien, Mai Cong Trang, Pham Tien Lam
+
+- name: Application of AI in Digital Art
+  link:
+  image: https://pail.phenikaa-uni.edu.vn/images/researchpic/aai_art.jpg
+  description: We are applying advanced Generative Adversarial Networks for generating and preserving creative digital art.
+  members: Mai Xuan Trang, Mai Cong Hung, Naoko Tosa, Ryohei Nakatsu
+
+- name: Application of AI in Medical Imaging
+  link:
+  image: https://pail.phenikaa-uni.edu.vn/images/researchpic/medical_ai.jpg
+  description: We research and develop advanced computer vision techniques using deep learning for medical image diagnosis.
+  members: Mai Xuan Trang, Mai Cong Hung
+
+- name: Optimal Resource Management for Federated Learning Systems
+  link:
+  image: https://pail.phenikaa-uni.edu.vn/images/pjpic/nafosted.jpeg
+  description: This project is funding by Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 102.02-2019.305.
+  members: Nguyen Cong Luong (PI)
+
+- name: Modulation Codes and Signal Detection Methods for the Next-Generation Ultra-High-Density Information Storage Systems
+  link:
+  image: https://pail.phenikaa-uni.edu.vn/images/pjpic/nafosted.jpeg
+  description: This project is funding by Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 102.04-2019.307.
+  members: Nguyen Dinh Chi (PI), Nguyen Cong Luong (Core member)
+
+- name: Phenikaa Jupyter Hub Project
+  link: https://jupyter.pail.phenikaa-uni.edu.vn/hub/login?next=%2Fhub%2F
+  image: https://pail.phenikaa-uni.edu.vn/images/pjpic/jupyterhub.png
+  description: This JupyterHub, at first, aims at providing an environment for teaching AI, Data Science courses at Phenikaa CS. This system enables lecturers to create and manage courses using Jupyter Notebook, also students can use this JupyterHub for practicing and doing assignments.
+  members: Mai Xuan Trang, Pham Tien Lam
+
