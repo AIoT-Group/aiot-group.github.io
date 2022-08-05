@@ -1,0 +1,69 @@
+- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
+  authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
+    display: Computer Networks (Volume 197, 9 October 2021)
+
+- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
+  authors: N. C. Luong, X. Lu, D. T. Hoang, D. Niyato and D. I. Kim
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9393464
+    display: IEEE Communications Surveys & Tutorials (vol. 23, no. 2, pp. 780-814, Secondquarter 2021)
+
+- title: "A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications"
+  authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9463425
+    display: IEEE Communications Surveys & Tutorials (to appear)
+  
+
+- title: "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM"
+  order: 4
+  authors: Thien Van Luong, Xiaoyu Zhang, Luping Xiang, Tiep M. Hoang, Chao Xu, Periklis Petropoulos, Lajos Hanzo
+  link:
+    url: https://eprints.soton.ac.uk/449644/
+    display: IEEE Journal on Selected Areas in Communications (to appear)
+  
+
+- title: "Dynamic Network Service Selection in IRS-assisted Wireless Networks: A Game Theory Approach"
+  order: 5
+  authors: Nguyen Cong Luong, Thi Thanh Van Nguyen, Shaohan Feng, Huy T Nguyen, Tao Dusit Niyato, Dong In Kim
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9403975
+    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+  
+
+- title: "A Hierarchical Game Model for OFDM Integrated Radar and Communication Systems"
+  order: 6
+  authors: Huy T Nguyen, Hoang Thai Dinh, Nguyen Cong Luong, Tao Dusit Niyato, Dong In Kim
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9390402
+    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+  
+
+- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
+  order: 7
+  image: trang_paper_1.jpg
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-77411-0_7
+    display: Lecture Notes in Computer Science, Vol. 12794
+  
+
+- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
+  order: 8
+  image: trang_paper_2.jpg
+  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  doi: https://doi.org/10.1007/978-3-030-77431-8_25
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-77431-8_25
+    display: Lecture Notes in Computer Science, Vol. 12795
+  
+- title: "Deep Learning-aided Multicarrier Systems"
+  order: 9
+  authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9271932
+    display: IEEE Transactions on Wireless Communications (vol. 20, no. 3, Mar 2021)
+  

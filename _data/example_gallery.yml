@@ -1,0 +1,35 @@
+- title: Lab Facilities
+  images:
+    - link: facility/IMG_9210.JPG
+      large_link: facility/IMG_9210.JPG
+      alt: The alt text for the image
+      description: Lab 1
+      ratio: is-16by9
+    - link: facility/IMG_9212.JPG
+      large_link: facility/IMG_9212.JPG
+      alt: The alt text for the image
+      description: Lab 2
+      ratio: is-4by3
+    - link: facility/IMG_9211.JPG
+      large_link: facility/IMG_9211.JPG
+      alt: The alt text for the image
+      description: Lab 3
+      ratio: is-4by3
+
+- title: Lab Activities
+  images:
+    - link: activity/IMG_9210.JPG
+      large_link: activity/IMG_9210.JPG
+      alt: The alt text for the image
+      description: Lab 1
+      ratio: is-16by9
+    - link: activity/IMG_9212.JPG
+      large_link: activity/IMG_9212.JPG
+      alt: The alt text for the image
+      description: Lab 2
+      ratio: is-4by3
+    - link: activity/IMG_9211.JPG
+      large_link: activity/IMG_9211.JPG
+      alt: The alt text for the image
+      description: Lab 3
+      ratio: is-4by3
