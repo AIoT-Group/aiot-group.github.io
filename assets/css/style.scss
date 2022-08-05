@@ -17,15 +17,19 @@
     left: auto;
 }
 
+// a.navbar-item {
+//     color: black !important;
+// }
+
 a.navbar-item:hover,
 .navbar-link:hover {
-    background-color: rgba($color: #fff, $alpha: 0.25) !important;
-    color: white !important;
+    background-color: rgba($color: rgb(155, 155, 155), $alpha: 0.25) !important;
+    color: black !important;
 }
 
 a.navbar-item.is-active {
     background-color: rgba($color: #fff, $alpha: 0.25) !important;
-    color: white !important;
+    color: black !important;
 
     &:hover {
         background-color: rgba($color: #fff, $alpha: 0.25) !important;
@@ -34,7 +38,7 @@ a.navbar-item.is-active {
 }
 
 .navbar-link:not(.is-arrowless)::after {
-    border-color: grey;
+    border-color: black;
 }
 
 
