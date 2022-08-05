@@ -9,7 +9,11 @@ baseurl: ""
 # Title of the Site
 title: AIoT Lab
 # Description of the Site
+<<<<<<< HEAD
 description: Blog about Artificial Intelligence by AIoT
+=======
+description: ARTIFICIAL INTELLIGENCE OF THINGS AIOT
+>>>>>>> 76ba7c4d0fc9c8bd1c3b3d1fabb4a6d52d6f5dc0
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
