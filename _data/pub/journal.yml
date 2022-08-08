@@ -10,6 +10,14 @@
     url: https://arxiv.org/abs/2207.14454
     display: Wireless Networks, July 2022. (Accepted)
 
+
+- title: "Dynamic Network Service Selection in Intelligent Reflecting Surface-Enabled Wireless Systems: Game Theory Approaches"
+  authors: T. T. V. Nguyen, N. C. Luong, F. Shaohan, H. T. Nguyen, K. Zhu, T. V. Luong, and D. Niyato
+  link:
+    url: https://ieeexplore.ieee.org/document/9694514
+    display: IEEE Trans. Wireless Commun., Jan. 2022. (To appear)
+
+
 - title: "Turbo Detection Aided Autoencoder for Multi-Carrier Wireless Systems: Integrating Deep Learning into Channel Coded Systems"
   authors: C. Xu, T. V. Luong, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang, and L. Hanzo
   link:
@@ -22,6 +30,13 @@
   link:
     url: https://ieeexplore.ieee.org/document/9724185
     display: IEEE Trans. Inf. Forensics Security,  vol. 17, pp. 1010-1023, 2022.
+
+
+- title: "Machine-Learning-Aided Optical OFDM for Intensity Modulated Direct Detection"
+  authors: X. Zhang, T. V. Luong, P. Petropoulos, and L. Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/document/9674226
+    display:  Journal of Lightwave Technology,  vol. 40, no. 8, pp. 2357-2369, April 2022.
 
 
 - title: "Deep Learning Aided Physical-Layer Security: The Security versus Reliability Trade-off"
@@ -57,4 +72,58 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9271932
     display: IEEE Trans. Wireless Commun., vol. 20, no. 3, pp. 2109-2119, 2021.
-  
+
+
+- title: "Deep-Learning-Aided Joint Channel Estimation and Data Detection for Spatial Modulation"
+  authors: L. Xiang, Y. Liu, T. V. Luong, R. G. Maunder, L. -L. Yang and L. Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/document/9233320
+    display: IEEE Access, vol. 8, pp. 191910-191919, 2020.
+
+
+- title: "Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems"
+  authors: T. V. Luong, Y. Ko, M. Matthaiou, N. A. Vien and H. Q. Ngo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9036067
+    display:  IEEE Trans. Wireless Commun., vol. 19, no. 6, pp. 3952-3962, June 2020.
+
+
+- title: "Deep Learning-Based Detector for OFDM-IM"
+  authors: T. V. Luong, Y. Ko, N. A. Vien, D. H. N. Nguyen, and M. Matthaiou
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8684894
+    display: IEEE Wireless Commun. Lett., vol. 8, no. 4, pp. 1159-1162, Aug. 2019.
+
+
+- title: "Spread OFDM-IM With Precoding Matrix and Low-Complexity Detection Designs"
+  authors: T. V. Luong and Y. Ko
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8477158
+    display: IEEE Trans. Veh. Technol., vol. 67, no. 12, pp. 11 619–11 626, Dec. 2018.
+
+
+- title: "The BER Analysis of MRC-Aided Greedy Detection for OFDM-IM in Presence of Uncertain CSI"
+  authors: T. V. Luong and Y. Ko
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8267267
+    display: IEEE Wireless Commun. Lett., vol. 7, no. 4, pp. 566-569, Aug 2018.
+
+
+- title: "Repeated MCIK-OFDM With Enhanced Transmit Diversity Under CSI Uncertainty"
+  authors: T. V. Luong, Y. Ko and J. Choi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8330757
+    display: IEEE Trans. Wireless Commun., vol. 17, no. 6, pp. 4079–4088, June 2018.
+
+- title: "Impact of CSI Uncertainty on MCIK-OFDM: Tight Closed-Form Symbol Error Probability Analysis"
+  authors: T. V. Luong and Y. Ko
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8039266
+    display: IEEE Trans. Veh. Technol., vol. 67, no. 2, pp. 1272-1279, Feb 2018.
+
+
+- title: "A Tight Bound on BER of MCIK-OFDM With Greedy Detection and Imperfect CSI"
+  authors: T. V. Luong and Y. Ko
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8023816
+    display: IEEE Commun. Lett., vol. 21, no. 12, pp. 2594-2597, Dec 2017.
