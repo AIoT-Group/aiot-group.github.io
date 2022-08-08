@@ -1,31 +1,31 @@
-- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
-  authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
+- title: "Enhanced spread spectrum OFDM-IM with rotated Zadoff-Chu sequences"
+  authors: T. V. Luong, Y. Ko, V. D. Ngo, M. T. Le, H. T. Le, and X. N. Tran
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
-    display: Computer Networks (Volume 197, 9 October 2021)
+    url: https://ieeexplore.ieee.org/abstract/document/8606849
+    display: in Proc. 5th IEEE NICS, Nov. 2018.
 
-- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
-  authors: N. C. Luong, X. Lu, D. T. Hoang, D. Niyato and D. I. Kim
+- title: "Impact of oppotunistic transmission on MCIKOFDM: Diversity and coding gains"
+  authors: T. V. Luong and Y. Ko
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9393464
-    display: IEEE Communications Surveys & Tutorials (vol. 23, no. 2, pp. 780-814, Secondquarter 2021)
+    url: https://link.springer.com/chapter/10.1007/978-3-030-05873-9_18
+    display: in Proc. 4th EAI INISCOM, Aug 2018.
 
-- title: "A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications"
-  authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
+- title: "Precoding for spread OFDM-IM"
+  authors: T. V. Luong and Y. Ko
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9463425
-    display: IEEE Communications Surveys & Tutorials (to appear)
+    url: https://ieeexplore.ieee.org/abstract/document/8417531
+    display: in Proc. IEEE VTC Spring, June 2018.
   
 
-- title: "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM"
-  authors: Thien Van Luong, Xiaoyu Zhang, Luping Xiang, Tiep M. Hoang, Chao Xu, Periklis Petropoulos, Lajos Hanzo
+- title: "A closed-form symbol error probability for MCIK-OFDM with frequency diversity"
+  authors: T. V. Luong and Y. Ko
   link:
-    url: https://eprints.soton.ac.uk/449644/
-    display: IEEE Journal on Selected Areas in Communications (to appear)
+    url: https://ieeexplore.ieee.org/abstract/document/8227776
+    display: in Proc. IEEE SPAWC, July 2017.
   
 
-- title: "Dynamic Network Service Selection in IRS-assisted Wireless Networks: A Game Theory Approach"
-  authors: Nguyen Cong Luong, Thi Thanh Van Nguyen, Shaohan Feng, Huy T Nguyen, Tao Dusit Niyato, Dong In Kim
+- title: "Symbol error outage performance analysis of MCIK-OFDM over complex TWDP fading"
+  authors: T. V. Luong and Y. Ko
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9403975
-    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+    url: https://ieeexplore.ieee.org/abstract/document/8011326
+    display: in Proc. Eur. Wireless, May 2017.
