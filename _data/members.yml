@@ -3,17 +3,17 @@
   email: thien.luongvan@phenikaa-uni.edu.vn
   job: Lab leader
   achievements:
-    - B.E at HUST
+    - B.E at HUST (Talented program)
     - Ph.D at Queen’s Belfast University, UK
     - Postdoc at University of Southampton, UK
     - Google Scholar
 
 - name: Pham Van Cuong, M.Sc
-  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Van.jpg
+  image: staff/CuongPV.jpg
   email: cuong.phamvan@phenikaa-uni.edu.vn
   job: Key member
   achievements:
-    - B.E at HaUI
+    - B.E at HUST (Talented program)
     - M.Sc at MTA
 
 #- name: Nguyen Cong Luong, Ph.D
@@ -31,7 +31,7 @@
   email: trang.maixuan@phenikaa-uni.edu.vn
   job: Advisor
   achievements: 
-    - Master at KMITL
+    - Master at KMITL, Thailand
     - Ph.D at Kyoto University
     - Postdoc at Kyoto University
     - Google Scholar
