@@ -8,13 +8,10 @@ background: '/img/posts/iot_security.png'
 post-image: '/img/posts/iot_security.png'
 description: In this project we bla bla
 tags:
-
 - IoT
 - Security
 - Intrusion detection
-
 ---
-
 Internet of Things (IoT) has been playing an important role in many sectors such as smart cities, smart agriculture,
 smart healthcare, and smart manufacturing. However, IoT devices are vulnerable to cyber-attacks, which may result in
 security breaches and data leakages. To effectively prevent these attacks, a variety of machine learning-based network
