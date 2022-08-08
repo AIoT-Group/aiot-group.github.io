@@ -1,69 +1,60 @@
-- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
-  authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
+- title: "Deep Learning Based Successive Interference Cancellation for the Non-Orthogonal Downlink"
+  authors: T. V. Luong, N. Shlezinger, C. Xu, T. M. Hoang, Y. C. Eldar, and L. Hanzo
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
-    display: Computer Networks (Volume 197, 9 October 2021)
+    url: https://ieeexplore.ieee.org/document/9837450
+    display: IEEE Trans. Veh. Technol., July 2022. (Accepted)
 
-- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
-  authors: N. C. Luong, X. Lu, D. T. Hoang, D. Niyato and D. I. Kim
+- title: "Enhancing Diversity of OFDM with Joint Spread Spectrum and Subcarrier Index Modulations"
+  authors: V.-D. Ngo, T. V. Luong, N. C. Luong, M. X. Trang, M.-T. Le, T. T. H Le, and X.-N. Tran
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9393464
-    display: IEEE Communications Surveys & Tutorials (vol. 23, no. 2, pp. 780-814, Secondquarter 2021)
+    url: https://arxiv.org/abs/2207.14454
+    display: Wireless Networks, July 2022. (Accepted)
 
-- title: "A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications"
-  authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
+- title: "Turbo Detection Aided Autoencoder for Multi-Carrier Wireless Systems: Integrating Deep Learning into Channel Coded Systems"
+  authors: C. Xu, T. V. Luong, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang, and L. Hanzo
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9463425
-    display: IEEE Communications Surveys & Tutorials (to appear)
+    url: https://ieeexplore.ieee.org/document/9759489
+    display: IEEE Trans. Cogn. Commun. Netw., vol. 8, no. 2, pp. 600-614, June 2022.
   
+
+- title: "Detection of Spoofing Attacks in Aeronautical Ad-hoc Networks Using Deep Autoencoders"
+  authors: T. M. Hoang, T. Van Chien, T. V. Luong, S. Chatzinotas, B. Ottersten and L. Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/document/9724185
+    display: IEEE Trans. Inf. Forensics Security,  vol. 17, pp. 1010-1023, 2022.
+
+
+- title: "Deep Learning Aided Physical-Layer Security: The Security versus Reliability Trade-off"
+  authors: T. M. Hoang, T. V. Luong, D. Liu, J. Zhang, and L. Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/document/9663220
+    display: IEEE Trans. Cogn. Commun. Netw., vol. 8, no. 2, pp. 442-453, June 2022.
+  
+
+- title: "Unity-Rate Coding Improves the Iterative Detection Convergence of Autoencoder-Aided Communication Systems"
+  authors: L. Xiang, C. Xu, X. Zhang, T. V. Luong, R. G. Maunder, L.-L. Yang, and L. Hanzo,
+  link:
+    url: https://ieeexplore.ieee.org/document/9713687
+    display:  IEEE Trans. Veh. Technol., vol. 71, no. 5, pp. 5037-5047, May 2022.
+  
+
+- title: "RIS-aided AANETs: Security Maximization Relying on Unsupervised Projection-based Neural Networks"
+  authors: T. M. Hoang, D. Liu, T. V. Luong, and L. Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/document/9645240
+    display:  IEEE Trans. Veh. Technol, vol. 71, no. 2, pp. 2214-2219, Feb. 2022.
+
 
 - title: "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM"
-  order: 4
-  authors: Thien Van Luong, Xiaoyu Zhang, Luping Xiang, Tiep M. Hoang, Chao Xu, Periklis Petropoulos, Lajos Hanzo
+  authors: T. V. Luong, X. Zhang, L. Xiang, T. M. Hoang, C. Xu, P. Petropoulos, and L. Hanzo
   link:
-    url: https://eprints.soton.ac.uk/449644/
-    display: IEEE Journal on Selected Areas in Communications (to appear)
-  
+    url: https://ieeexplore.ieee.org/abstract/document/9605573
+    display: IEEE J. Sel. Areas Commun., vol. 40, no. 1, pp. 212-226, Jan. 2022.
 
-- title: "Dynamic Network Service Selection in IRS-assisted Wireless Networks: A Game Theory Approach"
-  order: 5
-  authors: Nguyen Cong Luong, Thi Thanh Van Nguyen, Shaohan Feng, Huy T Nguyen, Tao Dusit Niyato, Dong In Kim
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9403975
-    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
-  
 
-- title: "A Hierarchical Game Model for OFDM Integrated Radar and Communication Systems"
-  order: 6
-  authors: Huy T Nguyen, Hoang Thai Dinh, Nguyen Cong Luong, Tao Dusit Niyato, Dong In Kim
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9390402
-    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
-  
-
-- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
-  order: 7
-  image: trang_paper_1.jpg
-  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-77411-0_7
-    display: Lecture Notes in Computer Science, Vol. 12794
-  
-
-- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
-  order: 8
-  image: trang_paper_2.jpg
-  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
-  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
-  doi: https://doi.org/10.1007/978-3-030-77431-8_25
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-77431-8_25
-    display: Lecture Notes in Computer Science, Vol. 12795
-  
 - title: "Deep Learning-aided Multicarrier Systems"
-  order: 9
-  authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
+  authors: T. V. Luong, Y. Ko, M. Matthaiou, N. A. Vien, M.-T. Le and V.-D. Ngo
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9271932
-    display: IEEE Transactions on Wireless Communications (vol. 20, no. 3, Mar 2021)
+    display: IEEE Trans. Wireless Commun., vol. 20, no. 3, pp. 2109-2119, 2021.
   
