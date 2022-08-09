@@ -9,7 +9,7 @@ baseurl: ""
 # Title of the Site
 title: AIoT Lab
 # Description of the Site
-description: Blog about Artificial Intelligence by AIoT
+description: Cutting-Edge Research on Artificial Intelligence of Things
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: https://scontent.fhan19-1.fna.fbcdn.net/v/t1.15752-9/292714853_1938639683192584_6662020547836813844_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WdsZLDCFwkwAX9oP8Ra&tn=CBgCmg6DpGWz-opu&_nc_ht=scontent.fhan19-1.fna&oh=03_AVIZyTl4qlR5MiortOofmIjC0-EG65g7k2w16NfTUeqSSg&oe=63118806
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://media.discordapp.net/attachments/999608294794600508/1001354534481834014/unknown.png?width=893&height=616
+heroimage: https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/291786643_1271009350361600_1191903467666023132_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=zxYDEoqwVD4AX92QQ6T&_nc_ht=scontent.fhan14-1.fna&oh=03_AVL83nZTejPE2AEV_6et6cTDpr139-A3un-J-YHQNiXzZQ&oe=63168D11
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -28,12 +28,14 @@ twitter_username:
 instagram_username: 
 linkedin_username: 
 github_username:  AIoT-Group
-youtube_channel_id: PhenikaaUniversity
+phone_number: 03..569874
+add_room: A6-401, Phenikaa University
 reddit_username: 
 behance_username: 
 dribbble_username: 
 spotify_username: 
-address: "Yen nghia, Ha Dong"
+address: "Yen nghia, Ha Dong, Ha Noi, Viet Nam"
+name_faculty: Faculty of Computer Science
 
 # Google Analytics
 google-analytics: UA-163806439-1

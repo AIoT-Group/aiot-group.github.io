@@ -4,22 +4,28 @@
         <a class="has-text-white" onclick="window.scroll(0,0)">BACK TO TOP</a>
     </div>
     <!--Footer Main Section-->
-    <div class="has-background-white">
+    <div class="" style="background-color: #ebebeb;">
         <div class="container columns">
             <!--Name Section-->
             <div class="column has-text-left-desktop has-text-centered-mobile">
                 <a href="{{site.url}}{{site.baseurl}}/#about">
                     <div class="columns">
                         <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
-                            
-                                <img class="" src="{{site.author-image}}">
-                            
+
+                            <img class="" src="{{site.author-image}}">
+
                         </div>
                         <div class="column is-marginless">
-                            <h5 class="has-text-grey-darker">{{site.author-name}}</h5>
+                            <div class="content has-text-grey">
+                                <h4>CONTACT US</h4>
+                                <p>Admin: {{site.github_username | truncate: 75 }}</p>
+                                <p>Email: {{site.email | truncate: 75 }}</p>
+                                <p>Phone: {{site.phone_number | truncate: 75 }}</p>
+                            </div>
+                            <!-- <h5 class="has-text-grey-darker">{{site.author-name}}</h5>
                             <div class="content has-text-grey">
                                 <p>{{site.author-about | truncate: 75 }}</p>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </a>
@@ -27,12 +33,25 @@
 
             <!--Link Section  -->
             <div class="column has-text-white">
-                
+
             </div>
 
             <!--Blog-post Section-->
-            <div class="column has-text-white">
-                
+            <div class="column has-text-white" style="text-align: right;">
+                <div>
+                    <div class="content has-text-grey">
+                        <h4></h4>
+                    </div>
+                    <div class="content has-text-grey">
+                        <p>{{site.name_faculty | truncate: 75 }}</p>
+                    </div>
+                    <div class="content has-text-grey">
+                        <p>{{site.add_room | truncate: 75 }}</p>
+                    </div>
+                    <div class="content has-text-grey">
+                        <p>{{site.address | truncate: 75 }}</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

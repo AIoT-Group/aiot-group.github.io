@@ -1,4 +1,5 @@
-<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation" id="navbar">
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation" id="navbar"
+    style="background-color:#ebebeb;">
     <div class="container">
 
         <!-- logo or branding image on left side -->
@@ -6,7 +7,7 @@
             <a class="navbar-item"
                 href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
                 <!-- <strong>{{site.title}}</strong> -->
-                <img src='{{site.author-image}}', alt="Logo lab">
+                <img src='{{site.author-image}}' , alt="Logo lab">
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
                 <span></span>

@@ -1,23 +1,26 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for member in site.data.members %}
-    <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
-      id="project-card">
-      <a href="{{member.link}}" target="_blank" >
+  <div
+    class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+    id="project-card">
+    <a href="{{member.link}}" target="_blank">
       <div class="has-background-white ">
         <figure class="image is-1by1" style="background-image: url({{member.image}});">
         </figure>
         <div class="card-content">
-          <h1 class="title has-text-black is-size-4">{{ member.name | truncate: 50 }}</h1>
-          <p class="has-text-black has-text-weight-light content">{{ member.job | truncate: 80}}</p>
-          <i style="color:#808080">{{ member.email }}</i>
-          <div style="padding-left:70px">
+          <h1 class="title has-text-black is-size-6">{{ member.name | truncate: 50 }}</h1>
+          <p class="has-text-black has-text-weight-light content" style="margin-bottom: 5px;">{{ member.job | truncate:
+            80}}</p>
+          <div style="padding-top:0px; padding-bottom: 10px;">
             {% for achievement in member.achievements limit:3%}
-              <li style="color:#808080; text-align:left; ">{{ achievement }}</li>
+            <p style="color:#808080; text-align: center ">{{ achievement }}</p>
             {% endfor %}
           </div>
+          <i class="is-size-6" style="color:#808080">{{ member.email }}</i>
+
         </div>
       </div>
-      </a>
-    </div>
+    </a>
+  </div>
   {% endfor %}
 </div>

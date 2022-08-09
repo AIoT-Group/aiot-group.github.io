@@ -1,4 +1,4 @@
-<section class="hero is-fullheight has-text-centered has-background-white-ter" id="about">
+<section class="hero is-fullheight has-text-centered has-background-white" id="about">
     <div class="hero-body">
         <div class="container">
             <div class="columns">
@@ -7,7 +7,8 @@
                         <img class="is-rounded" src="{{site.author-image}}" alt="{{site.author-name}}">
                     </figure>
                 </div>
-                <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                <div
+                    class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
                     <!--- <p>{{site.author-about}}</p> -->
                     <!--- <p>
                         We are a research group at the <a href="https://cs.phenikaa-uni.edu.vn/">Faculty of Computer Science, Phenikaa University</a>. Our aim is to explore applications of AI in different domains. Our research topics including:
@@ -25,17 +26,17 @@
                     </p> -->
                     <br>
                     <section class="hero is-fullheight" id="blog">
-                        
+
                         <div id="results-container"></div>
                         <!--Blog Cards Section-->
                         {% for award in site.data.awards %}
-                            {% include award-card.html %}
+                        {% include award-card.html %}
                         {% endfor %}
-                        </div>
-                    </section>
                 </div>
-            </div>
-        </div>
-        
-    </div>
+</section>
+</div>
+</div>
+</div>
+
+</div>
 </section>

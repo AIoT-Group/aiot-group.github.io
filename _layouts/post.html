@@ -15,9 +15,9 @@ layout: compress
   <section class="hero is-fullheight has-text-centered" id="post">
     <div class="hero-body">
       <div class="container">
-        
-          <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
-        
+
+        <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
+
         <hr class="has-background-black">
         <div class="columns is-variable is-5">
           <div class="column is-6">
@@ -25,9 +25,11 @@ layout: compress
               <img src="{{page.background}}" alt="{{post.title}}" id="post-image">
             </figure>
           </div>
-          <div class="subtitle column is-5 has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-center-mobile">
+          <div
+            class="subtitle column is-5 has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-center-mobile">
             {% unless page.subtitle.size == 0 %}
-            <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.subtitle | strip | strip_html | strip_newlines }}</p>
+            <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.subtitle | strip |
+              strip_html | strip_newlines }}</p>
             {% endunless %}
             <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">Published on
               <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <b><b class="author">{{page.author}}</b>
@@ -52,7 +54,8 @@ layout: compress
             {%- endunless -%}
           </div>
         </div>
-        <div class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">
+        <div
+          class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">
           <p>{{ content }}</p>
         </div>
         {% unless site.disqus-shortname == "" %}
@@ -61,11 +64,15 @@ layout: compress
         <div class="clearfix">
 
           {% if page.previous.url %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
+          <a class="btn btn-primary float-left"
+            href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+            data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
               Post</span></a>
           {% endif %}
           {% if page.next.url %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
+          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}"
+            data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span
+              class="d-none d-md-inline">
               Post</span> &rarr;</a>
           {% endif %}
 

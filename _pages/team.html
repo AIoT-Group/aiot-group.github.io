@@ -15,13 +15,33 @@ permalink: /team/
     {% include navbar.html %}
 
     <!--Main Section-->
-    <section class="hero is-fullheight" id="project">
+    <section class="hero" id="project">
         <div class="hero-body">
             <div class="container has-text-centered">
                 <div class="section">
-                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Members</p>
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Key Members</p>
                 </div>
                 {% include member-card.html %}
+            </div>
+        </div>
+    </section>
+    <section class="hero" id="project">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Research Assistants</p>
+                </div>
+                {% include research_assistant-card.html %}
+            </div>
+        </div>
+    </section>
+    <section class="hero" id="project">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Students</p>
+                </div>
+                {% include student-card.html %}
             </div>
         </div>
     </section>
