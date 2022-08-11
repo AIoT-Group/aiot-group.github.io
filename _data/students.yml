@@ -1,30 +1,24 @@
-- name: Luong Van Thien, Ph.D - st
+- name: Ngoc Viet Pham
   image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
-  email: thien.luongvan@phenikaa-uni.edu.vn
-  job: Lab leader
-  link: https://tvluong.wordpress.com/
+  job: B.S. in Computer Science
   achievements:
-    - Ph.D at Queen’s Belfast University, UK
+    - Phenikaa University
 
-- name: Pham Van Cuong, M.Sc - st
-  image: https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/45552514_2110474435685536_8095536757619032064_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=o-rZHPQb6egAX8wMWcl&tn=lcTP9CH6v09Ai77Z&_nc_ht=scontent.fhan2-3.fna&oh=00_AT_nopB6_Cw5_cvZ8kU7i4nqL0G7rc9UnwC_PUwwXi2orw&oe=63181F01
-  email: cuong.phamvan@phenikaa-uni.edu.vn
-  job: Key member
-  link: https://tvluong.wordpress.com/
-  achievements:
-    - M.Sc at Chonnam National University, Korea
-
-- name: Mai Xuan Trang, Ph.D - st
-  image: https://pail.phenikaa-uni.edu.vn/images/teampic/staff/Trang.jpg
-  email: trang.maixuan@phenikaa-uni.edu.vn
-  job: 
-  link: https://tvluong.wordpress.com/
-  achievements: 
-
-- name: Luong Van Thien, Ph.D - st
+- name: Tuan Huy Vu
   image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
-  email: thien.luongvan@phenikaa-uni.edu.vn
-  job: B.s in Computer Science
-  link: https://tvluong.wordpress.com/
+  job: B.S. in Computer Science
   achievements:
+    - Phenikaa University
+
+- name: Chi Cong Nguyen
+  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Hoang Linh Phuong Nguyen
+  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
 
