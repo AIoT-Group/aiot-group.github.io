@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: projectpost
 title: "AI for IoT Security"
 subtitle: This project proposes a range of advanced machine learning techniques for intrusion detection in IoT networks.
 date:       2022-4-8
