@@ -13,7 +13,7 @@ permalink: /awards/
 <br>
 
 {% for publi in site.data.awards %}
-<div style="text-align: justify; width: 88vh;">
+<div style="text-align: justify;">
   <ul>
      <li><p><b>{{ publi.achivement }},</b> "{{ publi.name }}," {{ publi.members }}, {{ publi.year}}.</p></li>
   <br>
