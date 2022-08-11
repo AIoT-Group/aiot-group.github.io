@@ -9,8 +9,6 @@ permalink: /awards/
 
 # Awards
 <br>
-<br>
-<br>
 
 {% for publi in site.data.awards %}
 <div style="text-align: justify;">
