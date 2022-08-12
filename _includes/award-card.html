@@ -5,7 +5,7 @@
             {{ award.content | truncate: 3000 | strip_html | strip_newlines | strip | escape }} <br>
         </div>
     </div>
-    <div style="width: 60vh;">
+    <div style="width: 100%; max-width: 60vh;">
         <img src="{{award.image}}">
     </div>
 </div>
