@@ -81,3 +81,27 @@
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
+
+- name: Phuc Tri Dang
+  image: /img/member/students/TriDP.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Quoc Khanh Nguyen
+  image: /img/member/students/KhanhNQ.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Duc Duy Anh Nguyen
+  image: /img/member/students/AnhNDD.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: The Tuong Nguyen
+  image: /img/member/students/TuongNT.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
