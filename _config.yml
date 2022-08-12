@@ -15,10 +15,10 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: https://scontent.fhan19-1.fna.fbcdn.net/v/t1.15752-9/292714853_1938639683192584_6662020547836813844_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=WdsZLDCFwkwAX9oP8Ra&tn=CBgCmg6DpGWz-opu&_nc_ht=scontent.fhan19-1.fna&oh=03_AVIZyTl4qlR5MiortOofmIjC0-EG65g7k2w16NfTUeqSSg&oe=63118806
+favicon-url: /img/logo_lab.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/291786643_1271009350361600_1191903467666023132_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=zxYDEoqwVD4AX92QQ6T&_nc_ht=scontent.fhan14-1.fna&oh=03_AVL83nZTejPE2AEV_6et6cTDpr139-A3un-J-YHQNiXzZQ&oe=63168D11
+heroimage: /img/backgroundhome.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -27,8 +27,8 @@ facebook_username: aiot.lab
 twitter_username: 
 instagram_username: 
 linkedin_username: 
-github_username:  AIoT-Group
-phone_number: 03..569874
+github_username:  Pham Ngoc Viet
+phone_number: 0362851201
 add_room: A6-401, Phenikaa University
 reddit_username: 
 behance_username: 
@@ -41,12 +41,12 @@ name_faculty: Faculty of Computer Science
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: aiot
+disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: AIoT
 # URL for the Image of the Author
-author-image: https://scontent.fhan19-1.fna.fbcdn.net/v/t1.15752-9/292714853_1938639683192584_6662020547836813844_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=HjpEIucuLOcAX-8wMbt&tn=CBgCmg6DpGWz-opu&_nc_ht=scontent.fhan19-1.fna&oh=03_AVKQ88zgclOL5OeXftUgL3LepQfKKJjo_KZe8Gf9xACgow&oe=6305AA86
+author-image: /img/logo_lab.png
 # 60 Words About the Author
 author-about: We are part of Faculty of Computer Science, Phenikaa University
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)

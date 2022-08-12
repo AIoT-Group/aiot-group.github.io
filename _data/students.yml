@@ -1,24 +1,83 @@
 - name: Ngoc Viet Pham
-  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  image: /img/member/students/VietPN.jpg
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
 
 - name: Tuan Huy Vu
-  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  image: /img/member/students/HuyVT.jpg
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
 
 - name: Chi Cong Nguyen
-  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  image: /img/member/students/CongNC.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Tu Uyen Le
+  image: /img/member/students/UyenLT.jpeg
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
 
 - name: Linh-Phuong H. Nguyen
-  image: https://tvluong.files.wordpress.com/2018/03/thien_photo-e1582238005151.jpg
+  image: /img/member/students/PhuongNHL.png
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
 
+- name: Thi Ha Vu
+  image: /img/member/students/HaVT.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Duc Minh Dao
+  image: /img/member/students/MinhDD.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Duc Hai Nguyen
+  image: /img/member/students/HaiND.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Thanh Hai Nguyen
+  image: /img/member/students/HaiNT.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Tuan Cuong Vuong
+  image: /img/member/students/CuongVT.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Trong Hiep Do
+  image: /img/member/students/HiepDT.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Ngoc Thanh Tran
+  image: /img/member/students/ThanhTN.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Hung Manh Pham
+  image: /img/member/students/ManhPH.jpg
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
+
+- name: Thanh An Khuong
+  image: /img/member/students/AnKT.png
+  job: B.S. in Computer Science
+  achievements:
+    - Phenikaa University
