@@ -1,27 +1,12 @@
 - title: Lab Facilities
   images:
-    - link: facility/IMG_9210.JPG
-      large_link: facility/IMG_9210.JPG
-      alt: The alt text for the image
-      description: Room Lab1
-      ratio: is-4by3
     - link: facility/IMG_9212.JPG
       large_link: facility/IMG_9212.JPG
       alt: The alt text for the image
       description: Room Lab
       ratio: is-4by3
-    - link: facility/server_1.jpg
-      large_link: facility/server_1.jpg
-      alt: The alt text for the image
-      description: Server image
-      ratio: is-16by9
     - link: facility/IMG_9211.JPG
       large_link: facility/IMG_9211.JPG
-      alt: The alt text for the image
-      description: Server computer
-      ratio: is-4by3
-    - link: facility/IMG_9239.JPG
-      large_link: facility/IMG_9239.JPG
       alt: The alt text for the image
       description: Server computer
       ratio: is-4by3
