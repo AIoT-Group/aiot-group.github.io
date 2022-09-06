@@ -5,7 +5,7 @@ subtitle: "Pham Huy Hieu College of Engineering & Computer Science and VinUni-Il
 date:       2022-09-06
 author:     Phạm Huy Hiệu
 background: '/img/posts/phamhuyhieu.png'
-post-image: '/img/posts/phamhuyhieu.png'
+post-image: '/img/posts/medical_ai.png'
 description: uses layouts to create a static website.
 tags:
 - Talk series
