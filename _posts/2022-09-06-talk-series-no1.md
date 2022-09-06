@@ -14,13 +14,16 @@ tags:
 - Technology
 ---
 <b>Abstract:</b> Medical image analysis is an active research field where advanced image analysis solutions are developed to predict, diagnose or monitor diseases. It is in high demand due to its better precision compared with conventional diagnosis in many scenarios. In particular, many tasks in medical image analysis have achieved human-level performance with the support of advanced machine learning and computer vision techniques. However, the development of effective AI-based solutions for medical image analysis and putting them into everyday clinical use, however, is challenging due to the lack of large, annotated datasets and explainability ability. This talk covers current and future perspectives in medical imaging. I will go through key concepts and applications of medical AI as well as discuss some challenges & potential research directions in the field.
-
+<br>
+<br>
+<B>
 Link đăng ký: <a href="https://bit.ly/3TMWAAI">https://bit.ly/3TMWAAI</a>
 <br>
 Thời gian: 15h30 chiều thứ 7, ngày 10/09/2022
 <br>
 Địa điểm: Phòng A6 105, Đại học Phenikaa
 <br>
+</B>
 
 
 <h3>BIOGRAPHY</h3><br>
