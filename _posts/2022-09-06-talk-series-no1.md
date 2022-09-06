@@ -4,8 +4,8 @@ title: "[No.1] Tech Talk Series – “AI in Medical Imaging: Current and future
 subtitle: "Pham Huy Hieu College of Engineering & Computer Science and VinUni-Illinois Smart Health Center, VinUniversity"
 date:       2022-09-06
 author:     Phạm Huy Hiệu
-background: '/img/posts/phamhuyhieu.png'
-post-image: '/img/posts/medical_ai.jpg'
+background: '/img/posts/medical_ai.jpg'
+post-image: '/img/posts/hamhuyhieu.png'
 description: uses layouts to create a static website.
 tags:
 - Talk series
