@@ -13,6 +13,8 @@ Jump to: [Introduction](#introduction), [Research Assistant](#researchassistant)
 ## For students in Phenikaa and other Universities
 If you want to be a member of AIoT Lab, please send your CV (download our CV template https://bit.ly/3KOf5AG) to aiot@phenikaa-uni.edu.vn. We will reply to you shortly.
 
+Requirements: hard-working, persistent (chăm chỉ, kiên trì) 
+
 ## For students graduated Bachelor or Master degree
 If you want to work as a Researh Assistant in AIoT Lab with Dr Thien Van Luong, please send your CV to aiot@phenikaa-uni.edu.vn. Salary is very competitive based on our research performance.
 
