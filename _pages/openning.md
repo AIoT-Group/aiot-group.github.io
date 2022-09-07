@@ -11,7 +11,7 @@ permalink: /openning/
 
 Jump to: [Introduction](#introduction), [Research Assistant](#researchassistant), [Students](#student)
 ## For students in Phenikaa and other Universities
-If you want to be a member of AIoT Lab, please send your CV (download our CV template https://bit.ly/3KOf5AG) to aiot@phenikaa-uni.edu.vn. We will reply to you shortly.
+If you want to be a member of AIoT Lab, please send your CV (download our CV template <https://bit.ly/3KOf5AG>) to aiot@phenikaa-uni.edu.vn. We will reply to you shortly.
 
 Requirements: hard-working, persistent (chăm chỉ, kiên trì) 
 
