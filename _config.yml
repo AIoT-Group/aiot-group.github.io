@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: /img/logo_lab.png
+favicon-url: /img/LogoAIoT413x367.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /img/backgroundhome1.jpg
@@ -46,7 +46,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: AIoT
 # URL for the Image of the Author
-author-image: /img/logo_lab.png
+author-image: /img/aiot_logo_thiep.png
 # 60 Words About the Author
 author-about: We are part of Faculty of Computer Science, Phenikaa University
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
