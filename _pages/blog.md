@@ -1,7 +1,6 @@
 ---
-title: "Blog"
+title: Blog
 layout: blog
-excerpt: "Blog"
 sitemap: true
 permalink: /blog/
 ---
