@@ -77,11 +77,6 @@
   achievements:
     - Hanoi University of Science anh Technology
 
-- name: Thanh An Khuong
-  image: /img/member/students/AnKT.png
-  job: B.S. in Computer Science
-  achievements:
-    - Phenikaa University
 
 - name: Phuc Tri Dang
   image: /img/member/students/TriDP.jpg
@@ -97,12 +92,6 @@
 
 - name: Duc Duy Anh Nguyen
   image: /img/member/students/AnhNDD.jpg
-  job: B.S. in Computer Science
-  achievements:
-    - Phenikaa University
-
-- name: The Tuong Nguyen
-  image: /img/member/students/TuongNT.png
   job: B.S. in Computer Science
   achievements:
     - Phenikaa University
